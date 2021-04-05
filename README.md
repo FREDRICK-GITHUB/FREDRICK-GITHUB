@@ -2,7 +2,8 @@
 - 👀 I’m interested in android, web, machine learning, HCI and Linux technologies.
 - 🌱 I’m currently learning Spring Boot For Java Projects
 - 💞️ I’m looking to collaborate on open source community-focused projects
-- 📫 How to reach me: kamaufredm@gmail.com or +254719408977
+- 📫 How to reach me: kamaufredm@gmail.com
+- 👀 Portfolio: https://fredrick-github.github.io/
 
 <!---
 FREDRICK-GITHUB/FREDRICK-GITHUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
