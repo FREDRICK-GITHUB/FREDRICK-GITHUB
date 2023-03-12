@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fredrick Maina, a young Computer Science graduate and tech enthusiast
-- 👀 I’m interested in android, web, machine learning, HCI and Linux technologies.
-- 🌱 I’m currently learning Spring Boot For Java Projects
-- 💞️ I’m looking to collaborate on open source community-focused projects
+- 👀 I’m interested in Software Development, DevOps, Systems Design, HCI, Cloud Computing and Linux Technologies.
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking forward to contributing to open source community-focused projects
 - 📫 How to reach me: kamaufredm@gmail.com
 - 👀 Portfolio: https://fredrick-github.github.io/
 
